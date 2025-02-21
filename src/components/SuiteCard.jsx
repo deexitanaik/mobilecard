@@ -18,7 +18,7 @@ const SuiteCard = () => {
         <div className="price-rating">
           <span className="price">$160</span>
           <span className="season">High season</span>
-          <span className="rating">⭐ 4.2</span>
+          <span className="rating"> 4.2</span>
         </div>
         <div className="details">
           <span>👤 3</span>
